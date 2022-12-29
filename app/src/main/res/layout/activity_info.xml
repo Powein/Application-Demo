@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".info">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#999999"
+        android:gravity="center_horizontal"
+
+        android:text="version_0.00\n这是应用的信息页\n来自开发者:\n由于还没把java玩明白,所以许多功能没做具体实现,已经在学了"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
